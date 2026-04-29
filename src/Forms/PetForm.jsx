@@ -9,10 +9,10 @@ function PetForm() {
         <input type="checkbox" id="pet" name="pet" value="Cat" />
         <label htmlFor="pet">Cats 😻</label>
         </span>
-        <span>
-        <br />
-        <input type="checkbox" id="pet" name="pet" value="Dog" />          
-        <label htmlFor="pet">Dogs 🐶</label>
+      <span>
+       <br />
+        <input type="checkbox" id="pet2" name="pet" value="Dog" />          
+        <label htmlFor="pet2">Dogs 🐶</label>
       </span>
     </div>
   );
